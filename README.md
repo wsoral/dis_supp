@@ -1,4 +1,4 @@
-# Suplement do rozprawy "Jakie aspekty indywidualnego i kolektywnego Ja wyznaczają pozytywną samoocenę. Znaczenie perspektywy sprawcy i biorcy.
+# Suplement do rozprawy "Jakie aspekty indywidualnego i kolektywnego Ja wyznaczają pozytywną samoocenę. Znaczenie perspektywy sprawcy i biorcy".
 ## mgr Wiktor Piotr Soral
 
 Aby pobrać całość materiałów należy kliknąć zielony przycisk "Clone or download", a następnie w małym okienku wcisnąć napis "Download ZIP".
